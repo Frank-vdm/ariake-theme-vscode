@@ -1,7 +1,7 @@
 {
     "name": "ariake",
     "displayName": "Ariake",
-    "description": "A dark color theme inspired by Japan colors and poetry",
+    "description": "A dark color theme inspired by Japan colors and poetry - My version",
     "version": "0.0.1",
     "publisher": "pathtrk",
     "engines": {
@@ -15,7 +15,12 @@
             {
                 "label": "Ariake",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ariake-color-theme.json"
+                "path": "./themes/ariake-dark.json"
+            },
+            {
+                "label": "Ariake Light",
+                "uiTheme": "vs",
+                "path": "./themes/ariake-light.json"
             }
         ]
     }
